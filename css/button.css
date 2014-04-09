@@ -1,0 +1,126 @@
+.en {
+    background-image: url( ../imgs/flag-usa-32x32.gif ) !important;
+}
+.ptBr {
+    background-image: url( ../imgs/flag-br-32x32.gif ) !important;
+}
+
+.pdf {
+    background-image: url( ../imgs/pdf.png ) !important;
+}
+
+.process {
+    background-image: url( ../imgs/process.png ) !important;
+}
+
+.irrigation {
+    background-image: url( ../imgs/irrigation.gif ) !important;
+}
+
+.initl {
+    background-image: url( ../imgs/initl32x32.gif ) !important;
+}
+
+.loadfile {
+    background-image: url( ../imgs/upload32x32.gif ) !important;
+}
+
+.txtfile {
+    background-image: url( ../imgs/txt32x32.gif ) !important;
+}
+
+.help {
+    background-image: url( ../imgs/help32x32.gif ) !important;
+}
+
+.typedata {
+    background-image: url( ../imgs/example32x32.gif ) !important;
+}
+
+.sampledata {
+    background-image: url( ../imgs/folder32x32.gif ) !important;
+}
+
+.results {
+    background-image: url( ../imgs/check32x32.gif ) !important;
+}
+
+.report {
+    background-image: url( ../imgs/report32x32.gif ) !important;
+}
+
+.next {
+    background-image: url( ../imgs/next32x32.gif ) !important;
+}
+
+.previous {
+    background-image: url( ../imgs/previous32x32.gif ) !important;
+}
+
+.excel {
+    background-image: url( ../imgs/excel32x32.gif ) !important;
+}
+
+.excelmini {
+    background-image: url( ../imgs/excel16x16.gif ) !important;
+}
+
+.cancel {
+    background-image: url( ../imgs/delete16x16.gif ) !important;
+}
+
+.addvalue {
+    background-image: url( ../imgs/add16x16.gif ) !important;
+}
+
+#header {
+    background: #7F99BE url(../imgs/layout-browser-hd-bg.gif) repeat-x center;
+}
+
+#header h1 {
+    font-size: 16px;
+    color: #fff;
+    font-weight: normal;
+    padding: 5px 10px;
+}
+
+h2 {
+    color:#083772 !important;
+    margin: 20px 0 0 !important;
+    padding: 5px;
+    background:#eee;
+    width:400px;
+}
+
+h3 {
+    font-weight:normal !important;
+    margin:10px;
+}
+
+h4 {
+    font-size: 10px;
+    font-weight:normal !important;
+    margin:10px;
+}
+
+#test {
+    font-size: 10px;
+    color: #fff;
+    font-weight: italic;
+    padding: 5px 10px;    
+}
+
+.x-btn {
+    margin-left:10px;
+}
+
+/*buttons*/
+.x-btn-default-large .add {
+    background-image: url(imgs/add.png) !important;
+}
+.x-btn-default-small .add {
+    background-image: url(imgs/add16.png) !important;
+}
+.x-btn-default-medium .add {
+    background-image: url(imgs/add24.png) !important;
+}

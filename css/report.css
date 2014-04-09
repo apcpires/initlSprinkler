@@ -1,0 +1,51 @@
+/* ------------------
+ styling for the tables 
+   ------------------   */
+
+
+body
+{
+	line-height: 1.6em;
+}
+#header-teste td,th,hr {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans;
+    font-size: 14px;
+    text-align: center;
+    font-weight: bold;
+    line-height: 10px;
+}
+
+#hor-minimalist-b
+{
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	font-size: 10px;
+	background: #fff;
+	border-collapse: collapse;
+	text-align: left;
+}
+#hor-minimalist-b th
+{
+	font-size: 12px;
+	font-weight: normal;
+
+	border-bottom: 2px solid;
+}
+#hor-minimalist-b td
+{
+	border-bottom: 1px solid #ccc;
+
+    text-align: center;
+
+}
+#hor-minimalist-b tbody tr:hover td
+{
+	color: #009;
+}
+.titulo1 {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: left;
+}
